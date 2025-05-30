@@ -19,6 +19,6 @@ public class Ejercicios {
         System.out.println("Contenido del HashSet: " + usuarios);
 
         System.out.println("En los usuarios está 'Paola'? " + usuarios.contains("Paola"));
-        
+
     }
 }
